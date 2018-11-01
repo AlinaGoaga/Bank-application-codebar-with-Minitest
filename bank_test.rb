@@ -39,3 +39,5 @@ class BankTest < Minitest::Test
   end
 
 end
+
+#tests for deposits and withdrawals 
