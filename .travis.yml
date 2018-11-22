@@ -1,2 +1,3 @@
 language: ruby
 rvm:  2.5.1
+bundler: 1.16.2
