@@ -1,5 +1,5 @@
 require "minitest/autorun"
-require_relative "atm"
+require_relative "../lib/atm"
 
 class BankTest < Minitest::Test
 
@@ -40,4 +40,4 @@ class BankTest < Minitest::Test
 
 end
 
-#tests for deposits and withdrawals 
+#tests for deposits and withdrawals

@@ -7,7 +7,7 @@ class Atm
      @balance = balance
    end
 
-   def deposit (amount, date)
+   def deposit(amount, date)
 
     return {
       status: :fail,
